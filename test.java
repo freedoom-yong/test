@@ -10,5 +10,6 @@
  }   
  System.out.println(""); 
  }
+ System.out.println("第一次修改九九乘法表");
  }
  }
